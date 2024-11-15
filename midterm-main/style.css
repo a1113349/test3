@@ -217,6 +217,9 @@ p {
     .header, .title, .advantage, .glass, .feat, .contact {
         padding: 20px;
     }
+      .header ul {
+        margin-top: 10px; /* 增加子項目間的間距 */
+    }
 
     .container1 {
         width: 100%;
